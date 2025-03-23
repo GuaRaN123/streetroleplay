@@ -9,11 +9,12 @@ LS-RP replica, very similiar to LSRP.
 In line 38, you can find SQL configuration there.
 
 Change them as your MySQL server configuration.
+[Local Host - Configuration]
 <ul>
   <li>SQL_HOSTNAME "localhost"</li>
  <li> SQL_USERNAME "root"</li>
- <li> SQL_DATABASE "ls-rp"</li>
-  <li>SQL_PASSWORD "root"</li>
+ <li> SQL_DATABASE "sql"</li>
+  <li>SQL_PASSWORD ""</li>
 </ul>
 <strong><h4>Feature / What's new?</h4></strong>
 <ul>
