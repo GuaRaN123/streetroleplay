@@ -45,6 +45,7 @@ Change them as your MySQL server configuration.
   <li>Re-test everything and fix if something is fucked up1</li>
   <li>More, more..</li>
 </ul>
+
 <strong><h4>Information</h4></strong>
 <quote>If you are planning on opening server with this gamemode, read down please!.</quote>
 <ul>
