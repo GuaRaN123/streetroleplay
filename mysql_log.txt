@@ -1,0 +1,55 @@
+[22:47:15 03/23/25] [ERROR] CMySQLQuery::Execute[OnPlayerRegister] - (error #1054) Unknown column 'char_pass' in 'field list' (Query: "INSERT INTO characters (char_name, char_pass, create_date, create_ip, pPhone) VALUES('Guaran', sha1('123'), 'March 23, 2025 22:47:15', '127.0.0.1', 99006)")
+[22:47:51 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'forum_name' in 'field list' (Query: "UPDATE characters SET forum_name = '', active_ip = '' WHERE char_dbid = 0")
+[22:47:51 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'UseHud' in 'field list' (Query: "UPDATE characters SET Donator = 0, Walk_style = 0, Chat_style = 0, Hud_style = 1, PhonePower = 0, Job = 0, Career = 0, SideJob = 0, UseHud = 1, SetupInfo = 0, Gender = 1, pAge = 13, RentAt = 0 WHERE char_dbid = 0")
+[22:48:04 03/23/25] [ERROR] CMySQLQuery::Execute[OnPlayerRegister] - (error #1054) Unknown column 'char_pass' in 'field list' (Query: "INSERT INTO characters (char_name, char_pass, create_date, create_ip, pPhone) VALUES('Guaran', sha1('test'), 'March 23, 2025 22:48:04', '127.0.0.1', 96675)")
+[22:48:35 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'forum_name' in 'field list' (Query: "UPDATE characters SET forum_name = '', active_ip = '' WHERE char_dbid = 0")
+[22:48:35 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'UseHud' in 'field list' (Query: "UPDATE characters SET Donator = 0, Walk_style = 0, Chat_style = 0, Hud_style = 1, PhonePower = 0, Job = 0, Career = 0, SideJob = 0, UseHud = 1, SetupInfo = 0, Gender = 1, pAge = 13, RentAt = 0 WHERE char_dbid = 0")
+[22:50:54 03/23/25] [ERROR] CMySQLQuery::Execute[LoggingIn] - (error #1054) Unknown column 'forum_name' in 'field list' (Query: "SELECT char_dbid, forum_name, secret_word, active_ip FROM characters WHERE char_name = 'Guaran' AND char_pass = sha1('test') LIMIT 1")
+[22:52:09 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'active_ip' in 'field list' (Query: "UPDATE characters SET forum_name = '', active_ip = '' WHERE char_dbid = 2")
+[22:52:09 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'UseHud' in 'field list' (Query: "UPDATE characters SET Donator = 0, Walk_style = 0, Chat_style = 0, Hud_style = 1, PhonePower = 0, Job = 0, Career = 0, SideJob = 0, UseHud = 1, SetupInfo = 0, Gender = 1, pAge = 13, RentAt = 0 WHERE char_dbid = 0")
+[22:52:22 03/23/25] [ERROR] CMySQLQuery::Execute[LoggingIn] - (error #1054) Unknown column 'secret_word' in 'field list' (Query: "SELECT char_dbid, forum_name, secret_word, active_ip FROM characters WHERE char_name = 'Guarant' AND char_pass = sha1('123') LIMIT 1")
+[22:53:14 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'active_ip' in 'field list' (Query: "UPDATE characters SET forum_name = '', active_ip = '' WHERE char_dbid = 3")
+[22:53:14 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'UseHud' in 'field list' (Query: "UPDATE characters SET Donator = 0, Walk_style = 0, Chat_style = 0, Hud_style = 1, PhonePower = 0, Job = 0, Career = 0, SideJob = 0, UseHud = 1, SetupInfo = 0, Gender = 1, pAge = 13, RentAt = 0 WHERE char_dbid = 0")
+[22:53:30 03/23/25] [ERROR] CMySQLQuery::Execute[LoggingIn] - (error #1054) Unknown column 'active_ip' in 'field list' (Query: "SELECT char_dbid, forum_name, secret_word, active_ip FROM characters WHERE char_name = 'Guaran' AND char_pass = sha1('test') LIMIT 1")
+[22:54:12 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'UseHud' in 'field list' (Query: "UPDATE characters SET Donator = 0, Walk_style = 0, Chat_style = 0, Hud_style = 1, PhonePower = 0, Job = 0, Career = 0, SideJob = 0, UseHud = 1, SetupInfo = 0, Gender = 1, pAge = 13, RentAt = 0 WHERE char_dbid = 0")
+[22:54:57 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'UseHud' in 'field list' (Query: "UPDATE characters SET Donator = 0, Walk_style = 0, Chat_style = 0, Hud_style = 1, PhonePower = 0, Job = 0, Career = 0, SideJob = 0, UseHud = 1, SetupInfo = 0, Gender = 1, pAge = 13, RentAt = 0 WHERE char_dbid = 0")
+[22:55:46 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:55:46 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SetupInfo") (Query: "SELECT * FROM characters WHERE char_name = 'Guaran'")
+[22:55:46 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:55:46 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Gender") (Query: "SELECT * FROM characters WHERE char_name = 'Guaran'")
+[22:55:46 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:55:46 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("RentAt") (Query: "SELECT * FROM characters WHERE char_name = 'Guaran'")
+[22:55:46 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:57:16 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'UseHud' in 'field list' (Query: "UPDATE characters SET Donator = 0, Walk_style = 0, Chat_style = 0, Hud_style = 1, PhonePower = 10000, Job = 0, Career = 0, SideJob = 0, UseHud = 1, SetupInfo = 1, Gender = 1, pAge = 23, RentAt = 0 WHERE char_dbid = 5")
+[22:57:26 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:57:26 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SetupInfo") (Query: "SELECT * FROM characters WHERE char_name = 'Guaran'")
+[22:57:26 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:57:26 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Gender") (Query: "SELECT * FROM characters WHERE char_name = 'Guaran'")
+[22:57:26 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:57:26 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("RentAt") (Query: "SELECT * FROM characters WHERE char_name = 'Guaran'")
+[22:57:26 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:59:40 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:59:40 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:59:40 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[22:59:40 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[23:08:27 03/23/25] [ERROR] mysql_tquery - callback parameter count does not match format specifier length (Query: "INSERT INTO businesses (BusinessType, BusinessName) VALUES(7, 'DMV')")
+[23:08:30 03/23/25] [ERROR] mysql_tquery - callback parameter count does not match format specifier length (Query: "INSERT INTO businesses (BusinessType, BusinessName) VALUES(7, 'DMV')")
+[23:08:35 03/23/25] [ERROR] mysql_tquery - callback parameter count does not match format specifier length (Query: "INSERT INTO businesses (BusinessType, BusinessName) VALUES(1, 'Restaurant')")
+[23:08:38 03/23/25] [ERROR] mysql_tquery - callback parameter count does not match format specifier length (Query: "INSERT INTO businesses (BusinessType, BusinessName) VALUES(7, 'DMV')")
+[23:17:39 03/23/25] [ERROR] CMySQLQuery::Execute[OnMDCNameFound] - (error #1054) Unknown column 'LastSeen' in 'field list' (Query: "SELECT LastSeen, char_dbid, PrisonSkin, pPhone, pActiveListings, pPrisonTimes, pJailTimes, pDriversLicense, pWeaponsLicense FROM characters WHERE char_dbid = 6")
+[23:18:23 03/23/25] [ERROR] mysql_tquery - callback parameter count does not match format specifier length (Query: "INSERT INTO businesses (BusinessType, BusinessName) VALUES(5, 'General Store')")
+[23:24:56 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("VehicleStolen") (Query: "SELECT * FROM vehicles WHERE VehicleDBID = 3")
+[23:24:56 03/23/25] [ERROR] cache_get_field_content_int - invalid datatype
+[23:24:56 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("VehicleStolenPosX") (Query: "SELECT * FROM vehicles WHERE VehicleDBID = 3")
+[23:24:56 03/23/25] [ERROR] cache_get_field_content_float - invalid datatype
+[23:24:56 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("VehicleStolenPosY") (Query: "SELECT * FROM vehicles WHERE VehicleDBID = 3")
+[23:24:56 03/23/25] [ERROR] cache_get_field_content_float - invalid datatype
+[23:24:56 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("VehicleStolenPosZ") (Query: "SELECT * FROM vehicles WHERE VehicleDBID = 3")
+[23:24:56 03/23/25] [ERROR] cache_get_field_content_float - invalid datatype
+[23:24:56 03/23/25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("VehicleStolenPosA") (Query: "SELECT * FROM vehicles WHERE VehicleDBID = 3")
+[23:24:56 03/23/25] [ERROR] cache_get_field_content_float - invalid datatype
+[23:25:37 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'VehicleStolen' in 'field list' (Query: "UPDATE vehicles SET VehicleStolen = 0, VehicleStolenPosX = 0.0, VehicleStolenPosY = 0.0, VehicleStolenPosZ = 0.0, VehicleStolenPosA = 0.0 WHERE VehicleDBID = 3")
+[23:25:37 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE VehicleDBID = 3' at line 1 (Query: "UPDATE vehicles SET DamageStatus0 = 0, WHERE VehicleDBID = 3")
+[23:25:37 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE VehicleDBID = 3' at line 1 (Query: "UPDATE vehicles SET DamageStatus1 = 0, WHERE VehicleDBID = 3")
+[23:25:37 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE VehicleDBID = 3' at line 1 (Query: "UPDATE vehicles SET DamageStatus2 = 0, WHERE VehicleDBID = 3")
+[23:25:37 03/23/25] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE VehicleDBID = 3' at line 1 (Query: "UPDATE vehicles SET DamageStatus3 = 0, WHERE VehicleDBID = 3")

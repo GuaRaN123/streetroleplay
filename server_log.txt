@@ -1,0 +1,541 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:46:23] filterscripts = ""  (string)
+[22:46:23] 
+[22:46:23] Server Plugins
+[22:46:23] --------------
+[22:46:23]  Loading plugin: sscanf.dll
+[22:46:23] 
+
+[22:46:23]  ===============================
+
+[22:46:23]       sscanf plugin loaded.     
+
+[22:46:23]          Version:  2.8.2        
+
+[22:46:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:46:23]  ===============================
+
+[22:46:23]   Loaded.
+[22:46:23]  Loading plugin: streamer.dll
+[22:46:23] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[22:46:23]   Loaded.
+[22:46:23]  Loading plugin: mysql.dll
+[22:46:23]  >> plugin.mysql: R39-6 successfully loaded.
+[22:46:23]   Loaded.
+[22:46:23]  Loading plugin: pawncmd.dll
+[22:46:23] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[22:46:23]   Loaded.
+[22:46:23]  Loaded 4 plugins.
+
+[22:46:23] 
+[22:46:23] Filterscripts
+[22:46:23] ---------------
+[22:46:23]   Loaded 0 filterscripts.
+
+[22:46:23] [ADM] Info: Load 3DTryg v4.5.2 for SA:MP 0.3.7 by Abyss Morgan
+[22:46:23] [DATABASE]: Connection established to 'sql'...
+[22:46:23] Number of vehicle models: 1
+[22:46:23] [SERVER]: No factions were loaded from "sql" database...
+[22:46:23] [SERVER]: No vehicles were loaded from "sql" database...
+[22:46:23] [SERVER]: No properties were loaded from "sql" database...
+[22:46:23] [SERVER]: No XMR categories were loaded from "sql" database...
+[22:46:23] [SERVER]: No XMR stations were loaded from "sql" database...
+[22:46:23] [SERVER]: No businesses were loaded from "sql" database...
+[22:46:23] [SERVER]: No streets were loaded from "sql" database...
+[22:46:23] [SERVER]: No tags were loaded from "sql" database...
+[22:46:23] [SERVER]: No payphones were loaded from "sql" database...
+[22:46:23] [SERVER]: No chopshops were loaded from "sql" database...
+[22:47:05] [connection] incoming connection: 127.0.0.1:61383 id: 0
+[22:47:05] [join] Guaran has joined the server (0:127.0.0.1)
+[22:47:51] [part] Guaran has left the server (0:1)
+[22:48:01] [connection] incoming connection: 127.0.0.1:64894 id: 0
+[22:48:01] [join] Guaran has joined the server (0:127.0.0.1)
+[22:48:35] [part] Guaran has left the server (0:1)
+[22:50:48] [connection] incoming connection: 127.0.0.1:55384 id: 0
+[22:50:48] [join] Guaran has joined the server (0:127.0.0.1)
+[22:52:09] [part] Guaran has left the server (0:2)
+[22:52:20] [connection] incoming connection: 127.0.0.1:55404 id: 0
+[22:52:20] [join] Guarant has joined the server (0:127.0.0.1)
+[22:53:14] [part] Guarant has left the server (0:1)
+[22:53:25] [connection] incoming connection: 127.0.0.1:61206 id: 0
+[22:53:25] [join] Guaran has joined the server (0:127.0.0.1)
+[22:54:12] [part] Guaran has left the server (0:1)
+[22:54:49] [connection] incoming connection: 127.0.0.1:50797 id: 0
+[22:54:49] [join] Guaran has joined the server (0:127.0.0.1)
+[22:54:57] [part] Guaran has left the server (0:2)
+[22:55:43] [connection] incoming connection: 127.0.0.1:55814 id: 0
+[22:55:44] [join] Guaran has joined the server (0:127.0.0.1)
+[22:56:41] Player [Guaran] sent command: refresh
+[22:56:42] Player [Guaran] sent command: help
+[22:57:16] [part] Guaran has left the server (0:1)
+[22:57:24] [connection] incoming connection: 127.0.0.1:55292 id: 0
+[22:57:25] [join] Guaran has joined the server (0:127.0.0.1)
+[22:59:14] [part] Guaran has left the server (0:1)
+[22:59:23] [connection] incoming connection: 127.0.0.1:55303 id: 0
+[22:59:24] [join] Guaran has joined the server (0:127.0.0.1)
+[22:59:27] [part] Guaran has left the server (0:2)
+[22:59:37] [connection] incoming connection: 127.0.0.1:61323 id: 0
+[22:59:37] [join] Guaran has joined the server (0:127.0.0.1)
+[22:59:53] [part] Guaran has left the server (0:1)
+[23:00:22] [connection] incoming connection: 127.0.0.1:53712 id: 0
+[23:00:23] [join] Guaran has joined the server (0:127.0.0.1)
+[23:00:37] Player [Guaran] sent command: help
+[23:00:39] Player [Guaran] sent command: admins
+[23:00:45] RCON (In-Game): Player #0 (Guaran) has logged in.
+[23:00:47] Player [Guaran] sent command: makeadmin
+[23:01:46] [part] Guaran has left the server (0:1)
+[23:01:55] [connection] incoming connection: 127.0.0.1:49592 id: 0
+[23:01:55] [join] Guaran has joined the server (0:127.0.0.1)
+[23:02:02] Player [Guaran] sent command: ahelp
+[23:02:03] Player [Guaran] sent command: ah
+[23:02:04] Player [Guaran] sent command: help
+[23:02:07] Player [Guaran] sent command: port
+[23:02:08] Player [Guaran] sent command: admins
+[23:02:09] Player [Guaran] sent command: aduty
+[23:02:10] Player [Guaran] sent command: aduty
+[23:04:51] [part] Guaran has left the server (0:1)
+[23:05:16] [connection] incoming connection: 127.0.0.1:63748 id: 0
+[23:05:16] [join] Guaran has joined the server (0:127.0.0.1)
+[23:05:21] Player [Guaran] sent command: ah
+[23:05:22] Player [Guaran] sent command: ahelp-
+[23:05:23] Player [Guaran] sent command: ahelp
+[23:05:24] Player [Guaran] sent command: port
+[23:05:25] Player [Guaran] sent command: aduty
+[23:05:27] Player [Guaran] sent command: tele
+[23:05:27] Player [Guaran] sent command: tp
+[23:05:32] Player [Guaran] sent command: forumname
+[23:05:35] Player [Guaran] sent command: admins
+[23:05:37] Player [Guaran] sent command: port
+[23:05:42] Player [Guaran] sent command: a
+[23:05:43] Player [Guaran] sent command: showmain
+[23:05:45] Player [Guaran] sent command: showmain
+[23:05:49] Player [Guaran] sent command: awp
+[23:05:50] Player [Guaran] sent command: awp
+[23:05:53] Player [Guaran] sent command: watchoff
+[23:05:57] Player [Guaran] sent command: stats
+[23:06:12] Player [Guaran] sent command: gotols
+[23:06:14] Player [Guaran] sent command: gotosf
+[23:06:22] Player [Guaran] sent command: makefaction
+[23:06:24] Player [Guaran] sent command: makefaction
+[23:06:33] Player [Guaran] sent command: makefaction
+[23:06:38] Player [Guaran] sent command: editfaction
+[23:06:44] Player [Guaran] sent command: editfaction
+[23:06:49] Player [Guaran] sent command: editfaction
+[23:07:00] Player [Guaran] sent command: editfaction
+[23:07:05] Player [Guaran] sent command: editfaction
+[23:07:07] Player [Guaran] sent command: editfaction
+[23:07:14] Player [Guaran] sent command: editfaction
+[23:07:20] Player [Guaran] sent command: editfaction
+[23:07:24] Player [Guaran] sent command: r
+[23:07:25] Player [Guaran] sent command: f
+[23:07:27] Player [Guaran] sent command: invite
+[23:07:29] Player [Guaran] sent command: makeleader
+[23:07:31] Player [Guaran] sent command: ahelp
+[23:07:39] Player [Guaran] sent command: help
+[23:07:41] Player [Guaran] sent command: factions
+[23:07:44] Player [Guaran] sent command: factionhelp
+[23:07:46] Player [Guaran] sent command: editfaction
+[23:07:50] Player [Guaran] sent command: editfaction
+[23:07:55] Player [Guaran] sent command: deletefaction
+[23:07:59] Player [Guaran] sent command: factions
+[23:08:02] Player [Guaran] sent command: factionhalp
+[23:08:14] Player [Guaran] sent command: ahelp
+[23:08:18] Player [Guaran] sent command: gotofaction
+[23:08:20] Player [Guaran] sent command: port
+[23:08:22] Player [Guaran] sent command: makebusiness
+[23:08:27] Player [Guaran] sent command: makebusiness
+[23:08:30] Player [Guaran] sent command: makebusiness
+[23:08:33] Player [Guaran] sent command: makebusiness
+[23:08:35] Player [Guaran] sent command: makebusiness
+[23:08:38] Player [Guaran] sent command: makebusiness
+[23:08:40] Player [Guaran] sent command: enter
+[23:08:43] Player [Guaran] sent command: editbusiness
+[23:08:44] Player [Guaran] sent command: editbusiness
+[23:08:46] Player [Guaran] sent command: editbusiness
+[23:08:54] Player [Guaran] sent command: setcar
+[23:08:56] Player [Guaran] sent command: pcar
+[23:08:58] Player [Guaran] sent command: pcar
+[23:09:06] Player [Guaran] sent command: setpfaction
+[23:09:07] Player [Guaran] sent command: setpfaction
+[23:09:09] Player [Guaran] sent command: f
+[23:09:12] Player [Guaran] sent command: editfaction
+[23:09:17] Player [Guaran] sent command: editfaction
+[23:09:22] Player [Guaran] sent command: editfaction
+[23:09:24] Player [Guaran] sent command: f
+[23:09:29] Player [Guaran] sent command: editfaction
+[23:09:31] Player [Guaran] sent command: f
+[23:09:36] Player [Guaran] sent command: r
+[23:09:40] Player [Guaran] sent command: r
+[23:09:42] Player [Guaran] sent command: faction
+[23:09:43] Player [Guaran] sent command: factions
+[23:09:45] Player [Guaran] sent command: factionon
+[23:09:51] Player [Guaran] sent command: finvite
+[23:09:51] Player [Guaran] sent command: invite
+[23:09:53] Player [Guaran] sent command: invite
+[23:09:54] Player [Guaran] sent command: invite
+[23:09:59] Player [Guaran] sent command: removefaction
+[23:10:00] Player [Guaran] sent command: funinvite
+[23:10:09] Player [Guaran] sent command: factionhelp
+[23:10:13] Player [Guaran] sent command: factionconfig
+[23:12:56] Player [Guaran] sent command: r
+[23:12:57] Player [Guaran] sent command: f
+[23:12:59] Player [Guaran] sent command: factionon
+[23:13:01] Player [Guaran] sent command: factionhelp
+[23:13:03] Player [Guaran] sent command: rank
+[23:13:10] Player [Guaran] sent command: factionhelp
+[23:13:14] Player [Guaran] sent command: rank
+[23:13:17] Player [Guaran] sent command: rank
+[23:13:20] Player [Guaran] sent command: f
+[23:13:22] Player [Guaran] sent command: factionon
+[23:13:25] Player [Guaran] sent command: duty
+[23:13:29] Player [Guaran] sent command: factionhelp
+[23:13:33] Player [Guaran] sent command: dep
+[23:13:34] Player [Guaran] sent command: dep
+[23:13:36] Player [Guaran] sent command: setdep
+[23:13:39] Player [Guaran] sent command: mdc
+[23:13:43] Player [Guaran] sent command: duty
+[23:13:43] Weapon given: IDX: 2, Weapon ID: 24
+[23:13:43] Weapon given: IDX: 0, Weapon ID: 3
+[23:13:43] Weapon given: IDX: 1, Weapon ID: 41
+[23:13:47] Player [Guaran] sent command: duty
+[23:13:49] Player [Guaran] sent command: offudty
+[23:13:52] Player [Guaran] sent command: offduty
+[23:13:53] Player [Guaran] sent command: badge
+[23:13:54] Player [Guaran] sent command: badge
+[23:14:00] Player [Guaran] sent command: wanted
+[23:14:02] Player [Guaran] sent command: wanted
+[23:14:03] Player [Guaran] sent command: wanted
+[23:14:09] Player [Guaran] sent command: factionhelp
+[23:14:10] Player [Guaran] sent command: help
+[23:14:19] Player [Guaran] sent command: accept
+[23:14:19] Player [Guaran] sent command: ahelp
+[23:14:29] Player [Guaran] sent command: spawncar
+[23:14:43] Player [Guaran] sent command: setcar
+[23:14:48] Player [Guaran] sent command: setcarparams
+[23:14:53] Player [Guaran] sent command: setp
+[23:14:54] Player [Guaran] sent command: setpfaction
+[23:15:29] Player [Guaran] sent command: spawncar
+[23:15:34] Player [Guaran] sent command: spawncar
+[23:15:36] Player [Guaran] sent command: engine
+[23:15:40] Player [Guaran] sent command: duty
+[23:15:42] Player [Guaran] sent command: duty
+[23:15:43] Player [Guaran] sent command: duty
+[23:15:43] Weapon given: IDX: 2, Weapon ID: 24
+[23:15:43] Weapon given: IDX: 0, Weapon ID: 3
+[23:15:43] Weapon given: IDX: 1, Weapon ID: 41
+[23:15:44] Player [Guaran] sent command: setskin
+[23:15:45] Player [Guaran] sent command: setskin
+[23:15:46] Player [Guaran] sent command: skin
+[23:15:48] Player [Guaran] sent command: skin
+[23:15:50] Player [Guaran] sent command: skin
+[23:15:50] Player [Guaran] sent command: skin
+[23:15:54] Player [Guaran] sent command: carsign
+[23:15:56] Player [Guaran] sent command: carsign
+[23:15:59] Player [Guaran] sent command: carsign
+[23:17:21] Player [Guaran] sent command: mdc
+[23:17:26] Player [Guaran] sent command: cc
+[23:18:00] Player [Guaran] sent command: cc
+[23:18:01] Player [Guaran] sent command: mdc
+[23:18:17] Player [Guaran] sent command: makebusiness
+[23:18:20] Player [Guaran] sent command: makebusiness
+[23:18:23] Player [Guaran] sent command: makebusiness
+[23:18:25] Player [Guaran] sent command: makebusiness
+[23:19:58] Player [Guaran] sent command: factions
+[23:21:28] Player [Guaran] sent command: cc
+[23:21:30] Player [Guaran] sent command: help
+[23:21:31] Player [Guaran] sent command: ahelp
+[23:21:33] Player [Guaran] sent command: mdc
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:22:39] filterscripts = ""  (string)
+[23:22:39] 
+[23:22:39] Server Plugins
+[23:22:39] --------------
+[23:22:39]  Loading plugin: sscanf.dll
+[23:22:39] 
+
+[23:22:39]  ===============================
+
+[23:22:39]       sscanf plugin loaded.     
+
+[23:22:39]          Version:  2.8.2        
+
+[23:22:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:22:39]  ===============================
+
+[23:22:39]   Loaded.
+[23:22:39]  Loading plugin: streamer.dll
+[23:22:39] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[23:22:39]   Loaded.
+[23:22:39]  Loading plugin: mysql.dll
+[23:22:39]  >> plugin.mysql: R39-6 successfully loaded.
+[23:22:39]   Loaded.
+[23:22:39]  Loading plugin: pawncmd.dll
+[23:22:39] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[23:22:39]   Loaded.
+[23:22:39]  Loaded 4 plugins.
+
+[23:22:39] 
+[23:22:39] Filterscripts
+[23:22:39] ---------------
+[23:22:39]   Loaded 0 filterscripts.
+
+[23:22:39] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x291) (script might need to be recompiled with the correct include file).
+[23:22:39] [Pawn.CMD] Plugin::AmxLoad: .inc-file version does not equal the plugin's version
+[23:22:39] Script[gamemodes/script.amx]: Run time error 19: "File or function is not found"
+[23:22:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:22:43] filterscripts = ""  (string)
+[23:22:43] 
+[23:22:43] Server Plugins
+[23:22:43] --------------
+[23:22:43]  Loading plugin: sscanf.dll
+[23:22:43] 
+
+[23:22:43]  ===============================
+
+[23:22:43]       sscanf plugin loaded.     
+
+[23:22:43]          Version:  2.8.2        
+
+[23:22:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:22:43]  ===============================
+
+[23:22:43]   Loaded.
+[23:22:43]  Loading plugin: streamer.dll
+[23:22:43] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[23:22:43]   Loaded.
+[23:22:43]  Loading plugin: mysql.dll
+[23:22:43]  >> plugin.mysql: R39-6 successfully loaded.
+[23:22:43]   Loaded.
+[23:22:43]  Loading plugin: pawncmd.dll
+[23:22:43] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[23:22:43]   Loaded.
+[23:22:43]  Loaded 4 plugins.
+
+[23:22:43] 
+[23:22:43] Filterscripts
+[23:22:43] ---------------
+[23:22:43]   Loaded 0 filterscripts.
+
+[23:22:43] [ADM] Info: Load 3DTryg v4.5.2 for SA:MP 0.3.7 by Abyss Morgan
+[23:22:43] [DATABASE]: Connection established to 'sql'...
+[23:22:43] Number of vehicle models: 1
+[23:22:43] [SERVER]: 1 factions were loaded from "sql" database...
+[23:22:43] [SERVER]: No vehicles were loaded from "sql" database...
+[23:22:43] [SERVER]: No properties were loaded from "sql" database...
+[23:22:43] [SERVER]: No XMR categories were loaded from "sql" database...
+[23:22:43] [SERVER]: No XMR stations were loaded from "sql" database...
+[23:22:43] [SERVER]: No businesses were loaded from "sql" database...
+[23:22:43] [SERVER]: No streets were loaded from "sql" database...
+[23:22:43] [SERVER]: No tags were loaded from "sql" database...
+[23:22:43] [SERVER]: No payphones were loaded from "sql" database...
+[23:22:43] [SERVER]: No chopshops were loaded from "sql" database...
+[23:22:55] [connection] incoming connection: 127.0.0.1:56727 id: 0
+[23:22:55] [join] Guaran has joined the server (0:127.0.0.1)
+[23:23:10] Player [Guaran] sent command: port
+[23:23:12] Player [Guaran] sent command: gotofaction
+[23:23:13] Player [Guaran] sent command: gotofaction
+[23:23:14] Player [Guaran] sent command: aduty
+[23:23:18] Player [Guaran] sent command: f
+[23:23:21] Player [Guaran] sent command: factionon
+[23:23:26] Player [Guaran] sent command: factionhelp
+[23:23:31] Player [Guaran] sent command: factionconfig
+[23:23:34] Player [Guaran] sent command: factionon
+[23:23:36] Player [Guaran] sent command: factions
+[23:23:39] Player [Guaran] sent command: factionconfig
+[23:24:41] Player [Guaran] sent command: setp
+[23:24:42] Player [Guaran] sent command: pcar
+[23:24:48] Player [Guaran] sent command: pcar
+[23:24:52] Player [Guaran] sent command: v
+[23:24:54] Player [Guaran] sent command: vget
+[23:24:55] Player [Guaran] sent command: v
+[23:25:04] Player [Guaran] sent command: jetpack
+[23:25:06] Player [Guaran] sent command: fly
+[23:25:09] Player [Guaran] sent command: up
+[23:25:10] Player [Guaran] sent command: spwancar
+[23:25:11] Player [Guaran] sent command: spawncar
+[23:25:12] Player [Guaran] sent command: spawncar
+[23:25:14] Player [Guaran] sent command: engine
+[23:25:34] Player [Guaran] sent command: v
+[23:25:37] Player [Guaran] sent command: v
+[23:25:41] Player [Guaran] sent command: engine
+[23:25:45] Player [Guaran] sent command: carsign
+[23:25:50] Player [Guaran] sent command: carsign
+[23:25:52] Player [Guaran] sent command: duty
+[23:26:03] Player [Guaran] sent command: duty
+[23:26:03] Weapon given: IDX: 2, Weapon ID: 24
+[23:26:03] Weapon given: IDX: 0, Weapon ID: 3
+[23:26:03] Weapon given: IDX: 1, Weapon ID: 41
+[23:26:05] Player [Guaran] sent command: makevuisness
+[23:26:08] Player [Guaran] sent command: makebusiness
+[23:26:10] Player [Guaran] sent command: makebusiness
+[23:26:13] Player [Guaran] sent command: editbusiness
+[23:26:15] Player [Guaran] sent command: editbusiness
+[23:26:17] Player [Guaran] sent command: editbusiness
+[23:26:21] Player [Guaran] sent command: editbusiness
+[23:26:28] Player [Guaran] sent command: editbusiness
+[23:26:32] Player [Guaran] sent command: enter
+[23:26:35] Player [Guaran] sent command: editbusiness
+[23:26:42] Player [Guaran] sent command: editbusiness
+[23:26:45] Player [Guaran] sent command: enter
+[23:26:48] Player [Guaran] sent command: buy
+[23:26:52] pruchase
+[23:26:55] Player [Guaran] sent command: buy
+[23:26:57] pruchase
+[23:26:58] pruchase
+[23:27:00] pruchase
+[23:27:01] pruchase
+[23:27:02] pruchase
+[23:27:06] pruchase
+[23:27:07] pruchase
+[23:27:07] pruchase
+[23:27:07] pruchase
+[23:27:08] pruchase
+[23:27:08] pruchase
+[23:27:08] pruchase
+[23:27:09] pruchase
+[23:27:09] pruchase
+[23:27:10] pruchase
+[23:27:10] pruchase
+[23:27:11] pruchase
+[23:27:12] pruchase
+[23:27:14] Player [Guaran] sent command: buy
+[23:27:16] Player [Guaran] sent command: exit
+[23:27:18] Player [Guaran] sent command: buyt
+[23:27:19] Player [Guaran] sent command: buy
+[23:27:21] Player [Guaran] sent command: enter
+[23:27:23] Player [Guaran] sent command: buy
+[23:27:29] pruchase
+[23:27:29] pruchase
+[23:27:33] pruchase
+[23:27:37] Player [Guaran] sent command: setmoney
+[23:27:38] Player [Guaran] sent command: setmoney
+[23:27:39] Player [Guaran] sent command: ahelp
+[23:28:00] Player [Guaran] sent command: setstat
+[23:28:02] Player [Guaran] sent command: exit
+[23:28:03] Player [Guaran] sent command: setstat
+[23:28:04] Player [Guaran] sent command: setstat
+[23:28:05] Player [Guaran] sent command: setstats
+[23:28:11] Player [Guaran] sent command: setstats
+[23:28:12] Player [Guaran] sent command: r
+[23:28:15] Player [Guaran] sent command: radiohelp
+[23:28:17] Player [Guaran] sent command: help
+[23:28:26] Player [Guaran] sent command: r
+[23:28:31] Player [Guaran] sent command: setradio
+[23:28:33] Player [Guaran] sent command: radiochannel
+[23:28:35] Player [Guaran] sent command: setradio
+[23:28:36] Player [Guaran] sent command: setradiochannel
+[23:28:37] Player [Guaran] sent command: setslot
+[23:28:38] Player [Guaran] sent command: setslot
+[23:28:39] Player [Guaran] sent command: setchannel
+[23:29:02] Player [Guaran] sent command: setchannel
+[23:29:04] Player [Guaran] sent command: r
+[23:29:10] Player [Guaran] sent command: r2
+[23:29:11] Player [Guaran] sent command: r1
+[23:29:13] Player [Guaran] sent command: r1low
+[23:29:15] Player [Guaran] sent command: rlow
+[23:29:16] Player [Guaran] sent command: rlow
+[23:29:17] Player [Guaran] sent command: r1
+[23:29:44] Player [Guaran] sent command: skin
+[23:29:47] Player [Guaran] sent command: skin
+[23:29:48] Player [Guaran] sent command: cc
+[23:29:49] Player [Guaran] sent command: clearchat
+[23:29:50] Player [Guaran] sent command: ahlep
+[23:29:51] Player [Guaran] sent command: ahelp
+[23:29:55] Player [Guaran] sent command: dr
+[23:30:03] Player [Guaran] sent command: v
+[23:30:04] Player [Guaran] sent command: v
+[23:30:15] Player [Guaran] sent command: exit
+[23:30:19] Player [Guaran] sent command: vget
+[23:30:21] Player [Guaran] sent command: v
+[23:30:24] Player [Guaran] sent command: gotocar
+[23:30:24] Player [Guaran] sent command: gotocar
+[23:30:25] Player [Guaran] sent command: gotocar
+[23:30:27] Player [Guaran] sent command: gotocar
+[23:30:31] Player [Guaran] sent command: gotobusiness
+[23:30:32] Player [Guaran] sent command: gotobusiness
+[23:30:33] Player [Guaran] sent command: exit
+[23:30:34] Player [Guaran] sent command: enter
+[23:30:36] Player [Guaran] sent command: exit
+[23:30:39] Player [Guaran] sent command: buy
+[23:30:41] Player [Guaran] sent command: setint
+[23:30:43] Player [Guaran] sent command: setint
+[23:30:44] Player [Guaran] sent command: setvw
+[23:30:46] Player [Guaran] sent command: setvirtualworld
+[23:30:50] Player [Guaran] sent command: gotocar
+[23:30:57] [part] Guaran has left the server (0:1)
+[23:31:17] [connection] incoming connection: 127.0.0.1:55881 id: 0
+[23:31:17] [join] Guaran has joined the server (0:127.0.0.1)
+[23:31:19] A weapon was removed. Slot: 0, Weapon: 3
+[23:31:19] Weapon given: IDX: 0, Weapon ID: 3
+[23:31:19] A weapon was removed. Slot: 1, Weapon: 41
+[23:31:19] Weapon given: IDX: 1, Weapon ID: 41
+[23:31:19] A weapon was removed. Slot: 2, Weapon: 24
+[23:31:19] Weapon given: IDX: 2, Weapon ID: 24
+[23:31:22] Player [Guaran] sent command: gotofaction
+[23:31:24] Player [Guaran] sent command: duty
+[23:31:24] Weapon given: IDX: 2, Weapon ID: 24
+[23:31:24] Weapon given: IDX: 0, Weapon ID: 3
+[23:31:24] Weapon given: IDX: 1, Weapon ID: 41
+[23:31:30] Player [Guaran] sent command: rank
+[23:31:35] Player [Guaran] sent command: rank
+[23:31:38] Player [Guaran] sent command: factionconfig
+[23:31:40] Player [Guaran] sent command: factionconfig
+[23:31:41] Player [Guaran] sent command: makepfaction
+[23:31:43] Player [Guaran] sent command: setpfaction
+[23:31:44] Player [Guaran] sent command: setpfaction
+[23:31:47] Player [Guaran] sent command: factionconfig
+[23:31:59] Player [Guaran] sent command: rank
+[23:32:01] Player [Guaran] sent command: rank
+[23:32:02] Player [Guaran] sent command: ranks
+[23:32:05] Player [Guaran] sent command: factionhelp
+[23:32:07] Player [Guaran] sent command: faction
+[23:32:09] Player [Guaran] sent command: factionhelp
+[23:32:15] Player [Guaran] sent command: makepfaction
+[23:32:15] Player [Guaran] sent command: makepfaction
+[23:32:18] Player [Guaran] sent command: setpfaction
+[23:32:20] Player [Guaran] sent command: factionhelp
+[23:32:22] Player [Guaran] sent command: factionconfig
+[23:32:23] Player [Guaran] sent command: rank
+[23:32:26] Player [Guaran] sent command: rank
+[23:32:34] Player [Guaran] sent command: r
+[23:32:39] Player [Guaran] sent command: factionhelp
+[23:32:47] Player [Guaran] sent command: mdc
+[23:32:50] Player [Guaran] sent command: factions
+[23:32:56] [part] Guaran has left the server (0:1)
