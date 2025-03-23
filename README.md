@@ -55,5 +55,7 @@ Change them as your MySQL server configuration.
   <li>Please test everything, gamemode is not fully ready for working
  there are some minor(Small) bugs with sql on factionvehicle/playervehicle
  i dont have time right now to continue to contribute.
-  There's problem with secret word on logging that shit need to be either fixed or removed.</li>
+  There's problem with secret word on logging that shit need to be either fixed or removed.
+  Have in mind that I'm new to MYSQL and this GITHUB if something is not published hit me up on discord #gukibrate.
+  This gamemode is not made by me, i've only fixed some bugs and added new things. All credits for the creator of this gamemode are leaved in the script.pwn</li>
 </ul>
