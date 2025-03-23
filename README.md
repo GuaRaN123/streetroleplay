@@ -1,4 +1,4 @@
-# Street RolePlay
+# Street RolePlay - RolePlay base gamemode
 
 Intro:
 
@@ -45,6 +45,7 @@ Change them as your MySQL server configuration.
   <li>Faction Skins, Interiors, Exteriors, Vehicles</li>
   <li>Minor SQL fixes (vehicle, propertyes)</li>
   <li>Rent Vehicles, Dealerships, RP Maps, RP Player Skins more env mods</li>
+  <li>Fix for faction_rank in mysql (not saving)</li>
   <li>Re-test everything and fix if something is fucked up1</li>
   <li>More, more..</li>
 </ul>
