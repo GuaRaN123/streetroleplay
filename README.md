@@ -19,6 +19,7 @@ Change them as your MySQL server configuration.
 <strong><h4>Feature / What's new?</h4></strong>
 <ul>
   <li>B-RP features</li>
+  <li>Create Character with GTA(dialog menu) fivem style </li>
   <li>Dealership rewrote, and semi fixed</li>
   <li>Vehicle sys rewrote</li>
   <li>Phone sys rewrote</li>
@@ -31,7 +32,8 @@ Change them as your MySQL server configuration.
   <li>Trucking system, with dynamic industrial, shipping (This script was made in a FS, will upload later)</li>
   <li>Dynamic Area / Street and with easy manage feature</li>
   <li>Chemical system and dynamic drugs sys with much more features, better than LS-RP one's! real breaking bad environment</li>
- <li>Fixed missing sql colums</li>
+  <li>Fixed missing sql colums</li>
+  <li>Improved Login System. Improved character system.</li>
 </ul>
 
 <strong><h4>TODO</h4></strong>
@@ -52,5 +54,6 @@ Change them as your MySQL server configuration.
 <ul>
   <li>Please test everything, gamemode is not fully ready for working
  there are some minor(Small) bugs with sql on factionvehicle/playervehicle
- i dont have time right now to continue to contribute.</li>
+ i dont have time right now to continue to contribute.
+  There's problem with secret word on logging that shit need to be either fixed or removed.</li>
 </ul>
